@@ -8,4 +8,4 @@ Skid, I see you.
 Don't say that you made it.
 
 
-Go on the line 349 and paste your token bot, enjoyed it !
+Go on the line 370 and paste your token bot, enjoyed it !
